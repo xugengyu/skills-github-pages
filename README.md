@@ -9,7 +9,7 @@
 
 # My Blog
 
-_A repo for my [blog](https://paulxu.me/): _
+_A repo for my [blog](https://paulxu.me/)_
 
 </header>
 
