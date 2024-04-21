@@ -1,4 +1,1 @@
----
-title: "Software Defined Radio"
-nav_exclude: true
----
+# Software Defined Radio

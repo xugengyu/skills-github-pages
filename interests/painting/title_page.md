@@ -1,4 +1,1 @@
----
-title: "Painting"
-navbar: false
----
+## Painting

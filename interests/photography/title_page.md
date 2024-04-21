@@ -1,4 +1,1 @@
----
-title: "Photography"
-navbar: false
----
+# Photography
