@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # 3D Printing
 
 _Some notes on things I learned/found as I experiment with 3D printing._
