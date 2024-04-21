@@ -3,8 +3,6 @@ nav_exclude: true
 navbar: false
 ---
 
-
-## 3D Printing
 Here are some things I learned/found as I experiment with 3D printing.
 
 ### My Set Up
