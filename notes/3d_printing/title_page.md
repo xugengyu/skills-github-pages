@@ -1,4 +1,7 @@
-# Notes on 3D Printing
+---
+title: "3D Printing"
+navbar: false
+---
 
 _Some notes on things I learned/found as I experiment with 3D printing._
 

@@ -2,7 +2,7 @@
 title: Interests
 ---
 
-Here I share some of my interests
+Here I discuss some of my interests
 
 - Photography
 - Painting

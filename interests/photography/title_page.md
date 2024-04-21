@@ -1,1 +1,4 @@
-# Photography
+---
+title: "Photography"
+navbar: false
+---

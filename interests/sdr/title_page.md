@@ -1,1 +1,4 @@
-# Software Defined Radio
+---
+title: "Software Defined Radio"
+navbar: false
+---
