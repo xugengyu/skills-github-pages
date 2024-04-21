@@ -2,4 +2,4 @@
 nav_exclude: true
 ---
 
-# Photography
+## Photography
