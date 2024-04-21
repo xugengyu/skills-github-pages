@@ -1,4 +1,4 @@
 ---
 title: "Software Defined Radio"
-navbar: false
+nav_exclude: true
 ---

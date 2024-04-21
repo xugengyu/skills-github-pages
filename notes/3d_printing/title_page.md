@@ -1,6 +1,6 @@
 ---
 title: "3D Printing"
-navbar: false
+nav_exclude: true
 ---
 
 _Some notes on things I learned/found as I experiment with 3D printing._
