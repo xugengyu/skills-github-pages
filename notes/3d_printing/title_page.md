@@ -7,7 +7,7 @@ navbar: false
 Here are some things I learned/found as I experiment with 3D printing.
 
 ### My Set Up
-![ender-3-pro-photo](notes/3d_printing/images/ender-3-pro.jpeg)
+![ender-3-pro-photo](./assets/ender-3-pro.jpeg)
 
 Currently (2024-04-21), I am using an entry level printer: the [Ender-3 S1 Pro](https://www.creality.com/products/creality-ender-3-s1-pro-fdm-3d-printer).
 
