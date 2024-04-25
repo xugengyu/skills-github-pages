@@ -13,10 +13,12 @@ Currently (2024-04-21), I am using an entry level printer: the [Ender-3 S1 Pro](
 The slicer that I am using is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
 
 ### Notes
+- [Types of print beds](/subpages/beds.md)
 - [Layer shifting and ghosting](/subpages/layer_shifting.md)
 - [z-hopping](/subpages/z_hopping.md)
 - [Leveling](/subpages/leveling.md)
 - [Stringing](/subpages/stringing.md)
+- [Skirts](/subpages/skirt.md)
 
 ### Recipes
 Some optimal settings I found for various types of filaments.
