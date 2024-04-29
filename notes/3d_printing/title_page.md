@@ -15,10 +15,10 @@ Currently (2024-04-21), I am using an entry level printer: the [Ender-3 S1 Pro](
 The slicer that I am using is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
 
 ### Notes
-- [Types of build plates](/subpages/beds.md)
-- [Layer shifting and ghosting](/subpages/layer_shifting.md)
-- [z-hopping](/subpages/z_hopping.md)
-- [Leveling](/subpages/leveling.md)
-- [Stringing](/subpages/stringing.md)
-- [Skirts](/subpages/skirt.md)
+- [Types of Build Plates](/subpages/beds.md)
 - [Filaments](/subpages/filaments.md)
+- [Layer Shifting and Ghosting](/subpages/layer_shifting.md)
+- [z-hopping and Retraction](/subpages/z_hopping.md)
+- [Leveling](/subpages/leveling.md)
+- [Skirts v.s. Rafts v.s. Brims](/subpages/skirt.md)
+- [Other Accessories](/subpages/accessories.md)
