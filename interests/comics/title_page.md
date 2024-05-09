@@ -1,12 +1,14 @@
 My reading list:
 
 ### Completed
+- Fables
+- Transmetropolitan
+- Ex Machina
+- Preacher
+- The Boys
 - Descender
 - Ascender
-- Ex Machina
 - The Last Ronin
-- Transmetropolitan
-- Preacher
 
 ### Ongoing
 - Saga
