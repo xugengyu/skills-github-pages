@@ -33,9 +33,8 @@ The Markov chain gradually addes noise to the input data to obtain
 <p style='margin-top:1em; text-align:center'>
 <b>Note: Posterior Probability</b></p>
 <p style='margin-left:1em;'>
-</p></span>
-</div>
+The propability of $\theta$
 
-<div class="equation">
-  <span class="tex">\(\int_{a}^{b} x^2 \, dx\)</span>
+<span class="tex">\(P(\theta|A)\)</span>
+</p></span>
 </div>
