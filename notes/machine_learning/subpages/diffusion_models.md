@@ -22,7 +22,7 @@ A diffusion model model maps input data an into to a latent space using a fixed 
 <b>Note: Markov Chains</b></p>
 <p style='margin-left:1em;'>
 A Markov chain is a process in which the probability of each event only depends on the state attained in the previous event. We can model a Markov chain with a set of states and a transition matrix that defines the propabailities of moving from one state to all other states.
-</p>
+</p></span>
 </div>
 
 
@@ -33,8 +33,7 @@ The Markov chain gradually addes noise to the input data to obtain
 <p style='margin-top:1em; text-align:center'>
 <b>Note: Posterior Probability</b></p>
 <p style='margin-left:1em;'>
-
-</p>
+</p></span>
 </div>
 
 <div class="equation">
