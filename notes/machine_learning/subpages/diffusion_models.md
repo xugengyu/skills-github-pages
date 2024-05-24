@@ -19,4 +19,4 @@ A diffusion model model maps input data an into to a latent space using a fixed 
 
 The Markov chain gradually addes noise to the input data to obtain 
 
-\\(P(\theta|A)\\), the probability of \\(\theta\\), given the evidence \\(A\\).
+\\(P(\theta\|A)\\), the probability of \\(\theta\\), given the evidence \\(A\\).
