@@ -40,10 +40,10 @@
         }
     </style>
 </head>
+
+{%- include head.html -%}
 <body>
-    <header>
-        <h1>Your Blog Title</h1>
-    </header>
+    {%- include header.html -%}
 
     <article>
         <h2>Introduction</h2>
@@ -70,8 +70,7 @@
         <p>That's it for this template! Feel free to customize it further based on your preferences and content.</p>
     </article>
 
-    <footer>
-        <p>&copy; 2024 Your Blog Name. All rights reserved.</p>
-    </footer>
+    {%- include footer.html -%}
+    
 </body>
 </html>
