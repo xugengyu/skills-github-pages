@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <!-- Include MathJax for LaTeX rendering -->
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <style>
-        /* Optional: Customize MathJax rendering styles */
-        .MathJax_Display {
-            margin: 0.5em 0;
-        }
-        .MathJax {
-            display: inline !important;
-        }
-    </style>
-</head>
+
   {%- include head.html -%}
 
   <body>
