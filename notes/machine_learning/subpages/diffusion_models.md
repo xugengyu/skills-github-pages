@@ -1,3 +1,6 @@
+---
+use_math: true
+---
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -20,4 +23,4 @@ A diffusion model model maps input data an into to a latent space using a fixed 
 The Markov chain gradually addes noise to the input data to obtain 
 
 > Posterior probability:
-$`\P(\theta|A)`$, the probability of $`\theta`$, given the evidence $`A`$.
+\\(\P(\theta|A)\\), the probability of \\(\theta\\), given the evidence \\(A\\).
