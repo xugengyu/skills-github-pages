@@ -1,11 +1,3 @@
-Here is a LaTeX equation inline: \( E = mc^2 \).
+Example (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; 
 
-And here is a displayed equation:
-
-\[ \int_{a}^{b} x^2 \, dx \]
-
-You can write text as usual in Markdown.
-
-## Another Section
-
-More content goes here.
+example (2): $a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}$
