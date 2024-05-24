@@ -22,5 +22,4 @@ A diffusion model model maps input data an into to a latent space using a fixed 
 
 The Markov chain gradually addes noise to the input data to obtain 
 
-> Posterior probability:
-\\(\P(\theta|A)\\), the probability of \\(\theta\\), given the evidence \\(A\\).
+> Posterior probability: denoted \\(P(\theta|A)\\), is defined as the probability of observing \\(\theta\\), given the evidence \\(A\\).
