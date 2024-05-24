@@ -1,3 +1,5 @@
 theme: minima
 title: Random Thoughts of Some Random Guy
 author: Paul Xu
+
+markdown: maruku
