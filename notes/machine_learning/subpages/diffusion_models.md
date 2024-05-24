@@ -1,9 +1,3 @@
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-Source: https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/
-
 *The following notes are for my personal reference only. They may contain direct quotations or reproductions from external sources, including text and images. These materials are utilized solely for the purpose of personal study and reference. Any use beyond this context may require permission from the original creators or copyright holders.*
 
 ### Diffusion Models
@@ -20,3 +14,7 @@ A diffusion model model maps input data an into to a latent space using a fixed 
 The Markov chain gradually addes noise to the input data to obtain 
 
 > Posterior probability: denoted \\(P(\theta|A)\\), is defined as the probability of observing \\(\theta\\), given the evidence \\(A\\).
+
+### Sources: 
+
+- https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/
