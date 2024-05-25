@@ -1,6 +1,7 @@
 ---
 title: "First Blog Post"
 date: 2024-04-21
+tags: blog
 ---
 
 I've migrated my blog to Github Pages. 

@@ -1,6 +1,7 @@
 ---
 title: "New Book"
 date: 2024-05-01
+tags: blog books
 ---
 
 Looking forward to diving into another story by Brian K. Vaughan. One issue in and I'm already hooked.

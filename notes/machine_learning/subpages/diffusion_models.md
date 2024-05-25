@@ -11,7 +11,7 @@ When the model is trained, one can generate new data by feeding random noise int
 
 A diffusion model model maps input data an into to a latent space using a fixed ***Markov Chain***. 
 
-> A Markov chain is a process in which the probability of each event only depends on the state attained in the previous event. We can model a Markov chain with a set of states and a transition matrix that defines the propabailities of moving from one state to all other states.
+> A Markov chain is a process in which the probability of each event only depends on the state attained in the previous event. We can model a Markov chain with a set of states and a transition matrix that defines the probabilities of moving from one state to all other states.
 
 
 The Markov chain gradually adds noise to the input data to obtain ...
