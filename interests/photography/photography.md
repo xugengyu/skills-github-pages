@@ -18,3 +18,11 @@ navbar: false
 <p align="center">
 <img src="https://paulxu.me/interests/photography/images/nyc03.jpeg" alt="drawing" width="400"/>
 </p>
+
+<p align="center">
+<img src="https://paulxu.me/interests/photography/images/nyc04.jpeg" alt="drawing" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://paulxu.me/interests/photography/images/nyc05.jpeg" alt="drawing" width="400"/>
+</p>
