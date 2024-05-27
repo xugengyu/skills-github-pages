@@ -1,11 +1,21 @@
-<h1> Comics </h1>
-
 <h3> Reading List </h3>
 
-- Fables
-- Transmetropolitan
-- Ex Machina
-- Preacher
+<p align="center">
+<img src="https://paulxu.me/interests/comics/images/fables.jpeg" alt="drawing" width="300"/>
+</p>
+
+<p align="center">
+<img src="https://paulxu.me/interests/comics/images/transmetropolitan.jpeg" alt="drawing" width="300"/>
+</p>
+
+<p align="center">
+<img src="https://paulxu.me/interests/comics/images/ex_machina.jpeg" alt="drawing" width="300"/>
+</p>
+
+<p align="center">
+<img src="https://paulxu.me/interests/comics/images/preacher.jpeg" alt="drawing" width="300"/>
+</p>
+
 - The Boys
 - Descender
 - Ascender

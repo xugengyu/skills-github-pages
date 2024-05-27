@@ -16,6 +16,8 @@ The Markov chain gradually adds noise to the input data to obtain ...
 
 > The posterior \\(P(\theta\|A)\\), is defined as the probability of observing \\(\theta\\), given the evidence \\(A\\).
 
-### Sources
+<h3> Sources </h3>
 
 1. <https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/>
+
+2. <https://en.wikipedia.org/wiki/Markov_chain/>

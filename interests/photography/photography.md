@@ -1,5 +1,3 @@
-<h1> Photography </h1>
-
 <h3> New York </h3>
 <p align="center">
 <img src="https://paulxu.me/interests/photography/images/nyc01.jpeg" alt="drawing" width="500"/>
@@ -36,8 +34,6 @@
 </p>
 
 <h3> My Gear </h3>
-
-Fujifilm X-T4
 
 <p align="center">
 <img src="https://paulxu.me/interests/photography/images/xt4.jpeg" alt="drawing" width="600"/>
