@@ -1,8 +1,6 @@
----
-nav_exclude: true
-navbar: false
----
+<h1> Photography </h1>
 
+<h3> New York </h3>
 <p align="center">
 <img src="https://paulxu.me/interests/photography/images/nyc01.jpeg" alt="drawing" width="400"/>
 </p>
@@ -26,3 +24,5 @@ navbar: false
 <p align="center">
 <img src="https://paulxu.me/interests/photography/images/nyc05.jpeg" alt="drawing" width="400"/>
 </p>
+
+<h3> Washington </h3>

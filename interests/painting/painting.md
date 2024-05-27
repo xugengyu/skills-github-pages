@@ -1,6 +1,1 @@
----
-nav_exclude: true
-navbar: false
----
-
-testing
+<h1> Painting </h1>

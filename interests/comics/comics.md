@@ -1,6 +1,7 @@
-My reading list:
+<h1> Comics </h1>
 
-### Completed
+<h3> Reading List </h3>
+
 - Fables
 - Transmetropolitan
 - Ex Machina
@@ -9,9 +10,14 @@ My reading list:
 - Descender
 - Ascender
 - The Last Ronin
-
-### Ongoing
 - Saga
 - Monstress
 - Something is Killing the Children
 - Department of Truth
+
+<h3> Completed </h3>
+
+- Y: The Last Man (★★★★☆)
+- Watchmen (★★★★★☆)
+- Batman: The Long Halloween (★★★☆☆)
+- Kingdom Come (★★★☆☆)
