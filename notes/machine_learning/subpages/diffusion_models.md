@@ -2,9 +2,7 @@
 use_math: true
 ---
 
-
-
-### Diffusion Models
+<h1> Diffusion Models </h1>
 
 Diffusion models are generative models which learn by initially *destroying* the training data, and subsequently recovering it through denoising.
 
