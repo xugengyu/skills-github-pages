@@ -18,11 +18,18 @@
 </p>
 
 <p align="center">
-<img src="https://paulxu.me/interests/photography/images/nyc04.jpeg" alt="drawing" width="600"/>
+<img src="https://paulxu.me/interests/photography/images/nyc04.jpeg" alt="drawing" width="700"/>
 </p>
 
 <p align="center">
-<img src="https://paulxu.me/interests/photography/images/nyc05.jpeg" alt="drawing" width="600"/>
+<img src="https://paulxu.me/interests/photography/images/nyc05.jpeg" alt="drawing" width="700"/>
 </p>
 
 <h3> Washington </h3>
+
+
+<h3> My Gear </h3>
+
+<p align="center">
+<img src="https://paulxu.me/interests/photography/images/xt4.jpeg" alt="drawing" width="600"/>
+</p>
