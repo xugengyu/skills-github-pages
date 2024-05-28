@@ -4,6 +4,11 @@ use_math: true
 
 <h1> Diffusion Models </h1>
 
+<h3> Disclaimer </h3>
+*The following notes are for my personal reference only. They may contain direct quotations or reproductions from external sources, including text and images. These materials are utilized solely for the purpose of personal study and reference. Any use beyond this context may require permission from the original creators or copyright holders.*
+
+<h3> Introduction </h3>
+
 Diffusion models are generative models which learn by initially *destroying* the training data, and subsequently recovering it through denoising.
 
 When the model is trained, one can generate new data by feeding random noise into the learned denoising process.
