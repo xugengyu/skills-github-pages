@@ -9,5 +9,5 @@ navbar: false
 
 <h3> Generative Models </h3>
 
-- [Diffusion Models](/subpages/diffusion_model/diffusion_models.md)
+- [Diffusion Models](/subpages/diffusion_model/diffusion_model.md)
 - [Generative Adversarial Networks](/subpages/GAN.md)
