@@ -40,8 +40,9 @@ To reiterate, the diffusion model consists of
 1. A forward process (diffusion), in which the datum is progressively noised.
 2. A reverse process (reverse diffusion), in which noise is transformed into a *sample* from the target distribution.
 
+
 $$
-K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+P'(\vec{x}_{1:T}|\vec{x}_0) \triangleq \Pi^T_{t=1}P'(\vec{x}_{t}|\vec{x}_{t-1})\triangleq\Pi^T_{t=1}\mathcal{N}\left(\vec{x}_t;\sqrt{1-\beta_t}\vec{x}_{t-1},\beta_t\vec{I}\right)
 $$
 
 <h3> Sources </h3>
