@@ -25,13 +25,24 @@ The Markov chain gradually adds noise to the input data to obtain the approximat
 <img src="https://paulxu.me/notes/machine_learning/subpages/diffusion_model/diffusion_forward.jpeg" alt="drawing" width="500"/>
 </p>
 
-The input image is eventually transformed into pure Gaussian noise. 
+Through the above noising processing, an input image is eventually transformed into pure Gaussian noise. 
 
 The diffusion model is trained to ***reverse*** the above process by removing the noise. This allows us to generate new data by using Gaussian noise as the input.
 
 <p align="center">
 <img src="https://paulxu.me/notes/machine_learning/subpages/diffusion_model/diffusion_backward.jpeg" alt="drawing" width="500"/>
 </p>
+
+<h3> Forward and Reverse Diffusion </h3>
+
+To reiterate, the diffusion model consists of
+
+1. A forward process (diffusion), in which the datum is progressively noised.
+2. A reverse process (reverse diffusion), in which noise is transformed into a *sample* from the target distribution.
+
+$$
+K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
+$$
 
 <h3> Sources </h3>
 
