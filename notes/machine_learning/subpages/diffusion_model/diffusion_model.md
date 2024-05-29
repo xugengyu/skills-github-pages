@@ -42,8 +42,10 @@ To reiterate, the diffusion model consists of
 
 
 $$
-P'(\vec{x}_{1:T}|\vec{x}_0) \triangleq \Pi^T_{t=1}P'(\vec{x}_{t}|\vec{x}_{t-1})\triangleq\Pi^T_{t=1}\mathcal{N}\left(\vec{x}_t;\sqrt{1-\beta_t}\vec{x}_{t-1},\beta_t\vec{I}\right)
+P'(\vec{x}_{1:T}|\vec{x}_0) \triangleq \Pi^T_{t=1}P'(\vec{x}_{t}|\vec{x}_{t-1})\triangleq\Pi^T_{t=1}\mathcal{N}\left(\vec{x}_t;\mu=\sqrt{1-\beta_t}\vec{x}_{t-1},\sigma=\beta_t\vec{I}\right)
 $$
+
+> \\(\mathcal{N}\left(x;\mu,\sigma\right)\\) denotes the probability of sampling \\(x\\) from a Gaussian distribution with mean \\(\mu\\) and standard deviation \\(\sigma\\).
 
 <h3> Sources </h3>
 
