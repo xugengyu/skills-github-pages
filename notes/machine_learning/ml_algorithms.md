@@ -1,11 +1,12 @@
-# Machine Learning Algorithms
-## supervised learning
+<h1> Machine Learning Algorithms</h1>
+
+<h2> Supervised Learning </h2>
 - Regression
 - Classification
 
-## unsupervised learning
+<h2> Unsupervised Learning </h2>
 
-## recommender systems
+<h2> Recommender Systems </h2>
 
-## reinforcement learning
+<h2> Reinforcement Learning </h2>
 
